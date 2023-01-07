@@ -5,7 +5,6 @@ Web Developer, Software Engineer, Game Designer
 -----------------------------------------------
 
 * 🌍  I'm based in Los Angeles, CA
-* ✉️  You can contact me at [uriartejosue@gmail.com](mailto:uriartejosue@gmail.com)
 * 🤝  I'm open to collaborating on kewl artistic projects
 
 ### Skills
