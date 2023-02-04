@@ -1,6 +1,6 @@
 Hi! My name is Josue Armando Uriarte Reyes
 ===================================================================================================================================================
-Web Developer, Software Engineer, Game Designer
+Software Engineer & Game Developer
 -----------------------------------------------
 
 ### Skills
