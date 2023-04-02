@@ -1,6 +1,6 @@
-Hi! My name is Josue Armando Uriarte Reyes
+Hi! My name is Josue Armando Uriarte Reyes!
 ===================================================================================================================================================
-Software Engineer & Game Developer
+Software Engineer / Gameplay Engineer / Game Designer
 -----------------------------------------------
 
 ### Skills
