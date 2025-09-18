@@ -1,4 +1,4 @@
-Hi! My name is Josue Armando Uriarte Reyes!
+Hi! My name is Josh Reyes!
 ===================================================================================================================================================
 Software Engineer / Gameplay Engineer / Game Designer
 -----------------------------------------------
